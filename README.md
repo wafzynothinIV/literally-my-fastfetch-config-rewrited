@@ -7,7 +7,7 @@ i don't know but yeah.. i rewrited it
 - also i have .txt files (not the dummy one) in that folder :)
 
 # How to install this config?
-just clone this or download it as zip 🥀
+just clone this or download it as zip and put it on "~/.config" 🥀
 
 # Preview
 <img width="1358" height="732" alt="2025-10-02-090738_hyprshot" src="https://github.com/user-attachments/assets/250f647a-43b6-47e3-8596-569786c9a1c7"/>
